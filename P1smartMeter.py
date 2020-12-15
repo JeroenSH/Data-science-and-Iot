@@ -3,6 +3,7 @@ import os
 import serial
 
 
+
 #settings for setting up serial port
 ser          = serial.Serial()
 ser.baudrate = 9600
