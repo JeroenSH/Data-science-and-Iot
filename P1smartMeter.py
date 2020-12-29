@@ -32,3 +32,6 @@ for i in range(10):
 
 ser.close()
 print("program finished")
+
+# ps aux | grep python
+# sudo kill -9 MyPID
