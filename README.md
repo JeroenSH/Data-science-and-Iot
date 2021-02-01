@@ -49,7 +49,7 @@ Data pipeline:
 Smartmeter --> raspberry 	door middel van p1 kabel naar usb 
 Raspberry --> thingspeak	door middel van internet protocol(tcp/udp)
 
-Kijk voor de foto's op github
+Kijk voor de foto's van het bewijs dat het product werkt op github onder de map img.
  
 Er zijn nog meer grafieken maar deze hebben tijdens het testen geen hogere waardes binnen gekregen. Dat komt omdat deze grafieken zijn voor het terug leveren van energie door de zonnepanelen. Op het moment van de metingen en de foto’s was dat nooit hoger dan het huidige verbruik en daarom zijn die grafieken nooit omhoog gegaan.
  
